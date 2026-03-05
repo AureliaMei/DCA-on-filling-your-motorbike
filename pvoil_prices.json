@@ -6264,5 +6264,34 @@
                 "price_vnd": 17730
             }
         ]
+    },
+    "05-03-2026": {
+        "time_of_change": "15:00",
+        "fuels": [
+            {
+                "fuel_type": "Xăng RON 95-III",
+                "price_vnd": 22340
+            },
+            {
+                "fuel_type": "Xăng E10 RON 95-III",
+                "price_vnd": 21730
+            },
+            {
+                "fuel_type": "Xăng E5 RON 92-II",
+                "price_vnd": 21440
+            },
+            {
+                "fuel_type": "Dầu DO 0,05S-II",
+                "price_vnd": 23030
+            },
+            {
+                "fuel_type": "Dầu DO 0,001S-V",
+                "price_vnd": 23330
+            },
+            {
+                "fuel_type": "Dầu KO",
+                "price_vnd": 26600
+            }
+        ]
     }
 }

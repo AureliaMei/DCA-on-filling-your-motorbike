@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 
 def simulate_fuel_purchases():
     # Đường dẫn file
-    csv_path = "/Users/my/DCA-on-filling-your-motorbike/bike_fuel_rate.csv"
+    csv_path = "bike_fuel_rate.csv"
     json_prices_path = "pvoil_prices.json"
     output_path = "01.fuel_purchase_history.json"
 
